@@ -35,7 +35,7 @@ Hooks:- useState, useEffect, useNavigate, useReducer, useContext
 ![image](https://user-images.githubusercontent.com/107272799/204890153-2115ecc3-2bf9-45aa-8db0-29883b4ffbe1.png)
 
 <h2>-DataBase</h2>
-![image](https://user-images.githubusercontent.com/107272799/204890339-9b348681-1d85-44a9-9fd6-60a619dc2740.png)
+![image](https://user-images.githubusercontent.com/107272799/204891132-4f2033ee-7262-438a-a2b8-f0f7dd1a5c14.png)
 
 
 <h2>Future Steps:-</h2>
